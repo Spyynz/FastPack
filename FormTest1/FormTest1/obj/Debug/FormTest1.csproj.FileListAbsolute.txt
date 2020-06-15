@@ -1,0 +1,10 @@
+C:\Users\eddyc\source\repos\FormTest1\FormTest1\bin\Debug\FormTest1.exe.config
+C:\Users\eddyc\source\repos\FormTest1\FormTest1\bin\Debug\FormTest1.exe
+C:\Users\eddyc\source\repos\FormTest1\FormTest1\bin\Debug\FormTest1.pdb
+C:\Users\eddyc\source\repos\FormTest1\FormTest1\obj\Debug\FormTest1.csprojAssemblyReference.cache
+C:\Users\eddyc\source\repos\FormTest1\FormTest1\obj\Debug\FormTest1.Form1.resources
+C:\Users\eddyc\source\repos\FormTest1\FormTest1\obj\Debug\FormTest1.Properties.Resources.resources
+C:\Users\eddyc\source\repos\FormTest1\FormTest1\obj\Debug\FormTest1.csproj.GenerateResource.cache
+C:\Users\eddyc\source\repos\FormTest1\FormTest1\obj\Debug\FormTest1.csproj.CoreCompileInputs.cache
+C:\Users\eddyc\source\repos\FormTest1\FormTest1\obj\Debug\FormTest1.exe
+C:\Users\eddyc\source\repos\FormTest1\FormTest1\obj\Debug\FormTest1.pdb
