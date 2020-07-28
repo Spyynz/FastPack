@@ -8,3 +8,13 @@ C:\Users\eddyc\source\repos\FormTest1\FormTest1\obj\Debug\FormTest1.csproj.Gener
 C:\Users\eddyc\source\repos\FormTest1\FormTest1\obj\Debug\FormTest1.csproj.CoreCompileInputs.cache
 C:\Users\eddyc\source\repos\FormTest1\FormTest1\obj\Debug\FormTest1.exe
 C:\Users\eddyc\source\repos\FormTest1\FormTest1\obj\Debug\FormTest1.pdb
+D:\Github\FastPack\FormTest1\FormTest1\bin\Debug\FormTest1.exe.config
+D:\Github\FastPack\FormTest1\FormTest1\bin\Debug\FormTest1.exe
+D:\Github\FastPack\FormTest1\FormTest1\bin\Debug\FormTest1.pdb
+D:\Github\FastPack\FormTest1\FormTest1\obj\Debug\FormTest1.csprojAssemblyReference.cache
+D:\Github\FastPack\FormTest1\FormTest1\obj\Debug\FormTest1.Form1.resources
+D:\Github\FastPack\FormTest1\FormTest1\obj\Debug\FormTest1.Properties.Resources.resources
+D:\Github\FastPack\FormTest1\FormTest1\obj\Debug\FormTest1.csproj.GenerateResource.cache
+D:\Github\FastPack\FormTest1\FormTest1\obj\Debug\FormTest1.csproj.CoreCompileInputs.cache
+D:\Github\FastPack\FormTest1\FormTest1\obj\Debug\FormTest1.exe
+D:\Github\FastPack\FormTest1\FormTest1\obj\Debug\FormTest1.pdb
